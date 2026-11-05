@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Levy Swordsman",
+    "promotions": [
+    "Low Morale"
+    ],
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 8,
+    "cost": 35,
+    "requiredTech": "Haru",
+    "uniques": [
+      "No damage penalty for wounded units"
+    ]
+  },
+  {
+    "name": "Levy Archer",
+    "promotions": [
+    "Low Morale"
+    ],
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 4,
+    "rangedStrength": 6,
+    "range": 2,
+    "cost": 35,
+    "requiredTech": "Haru",
+    "uniques": [
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Levy Spearman",
+    "promotions": [
+    "Low Morale"
+    ],
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 9,
+    "cost": 40,
+    "requiredTech": "Haru",
+    "uniques": [
+      "[+20]% Strength for enemy [Mounted] units in adjacent [Land] tiles"
+    ]
+  }, {
+    "name": "Volunteer Swordsman",
+    "promotions": [
+    "High Morale"
+    ],
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 11,
+    "cost": 55,
+    "requiredTech": "Haru",
+    "uniques": [
+      "[+10]% Strength"
+    ]
+  },
+  {
+    "name": "Volunteer Archer",
+    "promotions": [
+    "High Morale"
+    ],
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 6,
+    "rangedStrength": 10,
+    "range": 2,
+    "cost": 55,
+    "requiredTech": "Haru",
+    "uniques": [
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Volunteer Spearman",
+    "promotions": [
+    "High Morale"
+    ],
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 12,
+    "cost": 60,
+    "requiredTech": "Haru",
+    "uniques": [
+      "[+50]% Strength <vs [Mounted] units>"
+    ]
+  },
+  {
+    "name": "Army Swordsman",
+    "promotions": [
+  "Very High Morale"
+    ],
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 15,
+    "cost": 80,
+    "requiredTech": "Haru"
+  },
+  {
+    "name": "Army Archer",
+    "promotions": [
+  "Very High Morale"
+    ],
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 8,
+    "rangedStrength": 14,
+    "range": 2,
+    "cost": 80,
+    "requiredTech": "Haru"
+  },
+  {
+    "name": "Army Spearman",
+    "promotions": [
+  "Very High Morale"
+    ],
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 16,
+    "cost": 85,
+    "requiredTech": "Haru"
+  },
+  {
+    "name": "Professional Swordsman",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 120,
+    "requiredTech": "Haru",
+    "promotions": [
+      "Elite Morale"
+    ]
+  },
+  {
+    "name": "Professional Archer",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 10,
+    "rangedStrength": 18,
+    "range": 2,
+    "cost": 120,
+    "requiredTech": "Haru",
+    "promotions": [
+      "Elite Morale"
+    ]
+  },
+  {
+    "name": "Professional Spearman",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 125,
+    "requiredTech": "Haru",
+    "promotions": [
+      "Elite Morale"
+    ]
+  },
+  {
+    "name": "Guard Swordsman",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 25,
+    "cost": 160,
+    "requiredTech": "Haru",
+    "promotions": [
+      "Supreme Morale",
+      "Defensive Stance"
+    ]
+  },
+  {
+    "name": "Guard Archer",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 12,
+    "rangedStrength": 22,
+    "range": 2,
+    "cost": 160,
+    "requiredTech": "Haru",
+    "promotions": [
+      "Supreme Morale",
+      "Defensive Stance"
+    ]
+  },
+  {
+    "name": "Guard Spearman",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 26,
+    "cost": 165,
+    "requiredTech": "Haru",
+    "promotions": [
+      "Supreme Morale",
+      "Defensive Stance"
+    ]
+  }
+]

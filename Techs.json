@@ -1,0 +1,28 @@
+
+[
+  {
+    "columnNumber": 0,
+    "era": "Ancient",
+    "techCost": 0,
+    "buildingCost": 40,
+    "wonderCost": 100,
+    "techs": [
+      {
+        "name": "Haru",
+        "row": 0,
+        "cost": 0,
+        "uniques": [
+          "Starting tech"
+        ]
+      },
+      {
+        "name": "No",
+        "row": 1,
+        "cost": 1000000000,
+        "prerequisites": [
+          "Haru"
+        ]
+      }
+    ]
+  }
+]

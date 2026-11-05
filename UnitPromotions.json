@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Low Morale",
+    "unitTypes": ["Sword", "Archery"],
+    "uniques": [
+      "[-25]% Strength"
+    ]
+  },
+  {
+    "name": "High Morale",
+    "unitTypes": ["Sword", "Archery"],
+    "uniques": [
+      "[+25]% Strength"
+    ]
+  },
+  {
+    "name": "Very High Morale",
+    "unitTypes": ["Sword", "Archery"],
+    "uniques": [
+      "[+50]% Strength"
+    ]
+  },
+  {
+    "name": "Elite Morale",
+    "unitTypes": ["Sword", "Archery"],
+    "uniques": [
+      "[+75]% Strength"
+    ]
+  },
+  {
+    "name": "Supreme Morale",
+    "unitTypes": ["Sword", "Archery"],
+    "uniques": [
+      "[+100]% Strength"
+    ]
+  },
+  {
+    "name": "Defensive Stance",
+    "unitTypes": ["Sword", "Archery"],
+    "uniques": [
+      "[+50]% Strength <when defending>"
+    ]
+  }
+]

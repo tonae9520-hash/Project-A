@@ -1,0 +1,38 @@
+
+[
+  {
+    "name": "Haru Kingdom",
+    "leaderName": "king Haru",
+    "adjective": "Haruan",
+
+    "outerColor": [0.75, 0.05, 0.05],
+    "innerColor": [0.05, 0.05, 0.05],
+
+    "cities": [
+      "Valelia",
+      "Winterfell",
+      "Solin",
+      "Kingslanding",
+      "The North",
+      "Kiline",
+      "Haru City",
+      "Thanachot",
+      "Redhaven",
+      "Blackstone",
+      "Dragonspire",
+      "Northwatch"
+    ],
+
+    "uniques": [
+      "[+5 Food, +1 Production, +1 Gold] [in capital]",
+
+      "[+5 Food, +1 Production] [in all cities]",
+
+      "[+3 Food] from [Farm] tiles [in all cities]",
+      "[+1 Production] from [Mine] tiles [in all cities]",
+      "[+1 Gold] from [Trading Post] tiles [in all cities]",
+
+      "[-5 Science, +1 Culture, +1 Faith, +5 Food]"
+    ]
+  }
+]
